@@ -20,6 +20,16 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+//    @IBAction func startGame()
+//    {
+//        let myalert = UIAlertView()
+//        myalert.title = "准备好了吗？"
+//        myalert.message = "准备好开始了吗？"
+//        myalert.addButtonWithTitle("Ready, go!")
+//        myalert.show()
+       
+//        self.performSegueWithIdentifier("goStart", sender:nil)
+//    }
 }
+
 
